@@ -1,3 +1,4 @@
 # jupyter and py files
 .ipynb_checkpoints/
 __pycache__/
+*.npz
